@@ -1,0 +1,23 @@
+/*전체 레이아웃 */
+body {background-color: #fff;}
+#wrap {width: 1400px; height: auto; margin: 0 auto; font-size: 30px; color:#fff; text-align: center; text-transform: uppercase;}
+.header {width: inherit; height: 100px; line-height: 100px; background: #ef6c00;}
+.content1 {height: 450px; background: #4dd0e1;}
+.content2 {margin: 30px 0; height: 1200px;background: #ef6c00;}
+.suggestzone {width: inherit; height: 100px; line-height: 100px; background: #112;}
+.footer {width: inherit; height: 100px; line-height: 100px; background: #ffb74d;}
+
+/* content1 세부 사항 */
+.content1 {overflow: hidden;}
+.posterzone {width: 400px;height: inherit; float: left;background: #f22;}
+.listzone {width: 1000px;height: inherit; float: left;background: #000;}
+
+
+/* contetn2 세부 사항 */
+.selecter {height: 100px; background: #600;overflow: hidden;}
+.secter1 {width: 350px;float: left;background: #111;}
+.secter2 {width: 350px;float: left;background: #222;}
+.secter3 {width: 350px;float: left;background: #333;}
+.secter4 {width: 350px;float: left;background: #444;}
+
+.content2 #content {height: 1100px; background: #888;}

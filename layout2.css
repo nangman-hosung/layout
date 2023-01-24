@@ -1,0 +1,29 @@
+/*전체 레이아웃 */
+        body {background-color: #ffe0b2;}
+        #wrap {width: 1400px; height: auto; margin: 0 auto; font-size: 30px; color:#fff; text-align: center; text-transform: uppercase;}
+        .header {width: inherit; height: 100px; line-height: 100px; background: #ef6c00;}
+        .side {float: left; width: 300px; height: 1200px; line-height: 600px; background: #fb8c00;}
+        .content {float: left; }
+        .footer {clear: both; width: inherit; height: 100px; line-height: 100px; background: #ffb74d;}
+
+
+        /* content 세부 레이아웃 */
+        .content_content { overflow: hidden;}
+        .content_content .column {width: 275px;height: 300px;}
+        .content_content .content1 {float: left;background: rgb(14, 14, 91);}  
+        .content_content .content2 {float: left;background: #500;}
+        .content_content .content3 {float: left;background: #600;}
+        .content_content .content4 {float: left;background: #700;}
+        .content_content .content5 {float: left;background: #800;}
+        .content_content .content6 {float: left;background: #900;}
+        .content_content .content7 {float: left;background: #100;}
+        .content_content .content8 {float: left;background: #200;}
+        .content_content .content9 {float: left;background: rgb(14, 14, 91);}  
+        .content_content .content10 {float: left;background: #500;}
+        .content_content .content11 {float: left;background: #600;}
+        .content_content .content12 {float: left;background: #800;}
+        .content_content .content13 {float: left;background: #900;}
+        .content_content .content14 {float: left;background: #100;}
+        .content_content .content15 {float: left;background: #200;}
+        .content_content .content16 {float: left;background: #300;}
+
